@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VKTyk1SWXmcuxZKgZ6Bo+ZROsoRtuEd/MBZCgg0DT6XkxSugkl31zfhd7ztWnQB3ybDSUN4z4hC/wT1DriHzTg==",
+  "dgSpecHash": "nCMD2ylcnZWJS0FEpmP8EloqCXB4NGo1bBDH2RqUs41AaKM+kQ2soPFLbeXJh+ooDU3tcg1r0uzg9MrFyDYuHA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Anderson Gabriel\\Documents\\Developer\\Projects\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Anderson Gabriel\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
