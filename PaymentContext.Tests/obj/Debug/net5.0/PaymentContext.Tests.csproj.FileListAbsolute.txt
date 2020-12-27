@@ -96,3 +96,7 @@ C:\Users\Anderson Gabriel\Documents\Developer\Projects\PaymentContext\PaymentCon
 C:\Users\Anderson Gabriel\Documents\Developer\Projects\PaymentContext\PaymentContext.Tests\obj\Debug\net5.0\ref\PaymentContext.Tests.dll
 C:\Users\Anderson Gabriel\Documents\Developer\Projects\PaymentContext\PaymentContext.Tests\obj\Debug\net5.0\PaymentContext.Tests.pdb
 C:\Users\Anderson Gabriel\Documents\Developer\Projects\PaymentContext\PaymentContext.Tests\obj\Debug\net5.0\PaymentContext.Tests.genruntimeconfig.cache
+C:\Users\Anderson Gabriel\Documents\Developer\Projects\PaymentContext\PaymentContext.Tests\bin\Debug\net5.0\PaymentContext.Domain.dll
+C:\Users\Anderson Gabriel\Documents\Developer\Projects\PaymentContext\PaymentContext.Tests\bin\Debug\net5.0\PaymentContext.Shared.dll
+C:\Users\Anderson Gabriel\Documents\Developer\Projects\PaymentContext\PaymentContext.Tests\bin\Debug\net5.0\PaymentContext.Domain.pdb
+C:\Users\Anderson Gabriel\Documents\Developer\Projects\PaymentContext\PaymentContext.Tests\bin\Debug\net5.0\PaymentContext.Shared.pdb

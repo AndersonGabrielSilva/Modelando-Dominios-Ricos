@@ -1,11 +1,12 @@
 using System;
+using PaymentContext.Domain.ValueObjects;
 
 namespace PaymentContext.Domain.Entities
 {    
 
     public class BoletoPayment : Payment
     {
-        public BoletoPayment(string barCode, string boletoNumber,DateTime paidDate, DateTime expireDate, decimal total, decimal totalPaid, string owner, string document, string addres, string email)
+        public BoletoPayment(string barCode, string boletoNumber,DateTime paidDate, DateTime expireDate, decimal total, decimal totalPaid, string owner, Document document, Address addres, Email email)
         :base( paidDate,expireDate,total,totalPaid,owner,document,addres,email)
         {
             BarCode = barCode;
